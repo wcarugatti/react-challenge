@@ -1,14 +1,14 @@
-# Desafio React
+# React Challenge
 
-## Descrição
+## Description
 
-O projeto é resultado de um desafio react. A proposta do desafio era desenvolver uma aplicação utilizando React e a API PokeAPI para consultar informações sobre os pokemons e disponibilizar em uma interface amigavel e com paginação.
+The project is the result of a react challenge. The challenge proposal was to develop an application using React and the PokeAPI API to consult the information about pokemon and make it available in a friendly interface with pagination.
 
 ![](pokeapp.gif)
 
-## Instruções
+## Instructions
 
-Utilize os seguintes comandos no terminal:
+In the project directory, you can run:
 
 ### `npm install`
 
