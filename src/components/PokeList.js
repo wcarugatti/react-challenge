@@ -9,7 +9,7 @@ const Pokes = () => {
 
   const itemStyle = {
     display: 'grid',
-    gridTemplateColumns: `repeat(${mql.matches? 3 : 6}, 1fr)`,
+    gridTemplateColumns: `repeat(${mql.matches? 2 : 6}, 1fr)`,
     gridGap: '1rem'
   };
 
