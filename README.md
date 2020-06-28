@@ -2,7 +2,7 @@
 
 ## Description
 
-The project is the result of a react challenge. The challenge proposal was to develop an application using React and the PokeAPI API to consult the information about pokemon and make it available in a friendly interface with pagination.
+The project is the result of a react challenge. The challenge proposal was to develop an application using React, ContextAPI and the PokeAPI API to consult the information about pokemon and make it available in a friendly interface with pagination.
 
 ![](pokeapp.gif)
 
