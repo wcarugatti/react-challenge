@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wcarugatti/react-challenge/static/css/main.3a6a09d8.chunk.css",
+    "main.js": "/wcarugatti/react-challenge/static/js/main.74eb9a1a.chunk.js",
+    "main.js.map": "/wcarugatti/react-challenge/static/js/main.74eb9a1a.chunk.js.map",
+    "runtime-main.js": "/wcarugatti/react-challenge/static/js/runtime-main.c7c44d7c.js",
+    "runtime-main.js.map": "/wcarugatti/react-challenge/static/js/runtime-main.c7c44d7c.js.map",
+    "static/js/2.27e04c76.chunk.js": "/wcarugatti/react-challenge/static/js/2.27e04c76.chunk.js",
+    "static/js/2.27e04c76.chunk.js.map": "/wcarugatti/react-challenge/static/js/2.27e04c76.chunk.js.map",
+    "index.html": "/wcarugatti/react-challenge/index.html",
+    "precache-manifest.85da1d8cf528da3270cb63967912ded5.js": "/wcarugatti/react-challenge/precache-manifest.85da1d8cf528da3270cb63967912ded5.js",
+    "service-worker.js": "/wcarugatti/react-challenge/service-worker.js",
+    "static/css/main.3a6a09d8.chunk.css.map": "/wcarugatti/react-challenge/static/css/main.3a6a09d8.chunk.css.map",
+    "static/js/2.27e04c76.chunk.js.LICENSE.txt": "/wcarugatti/react-challenge/static/js/2.27e04c76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7c44d7c.js",
+    "static/js/2.27e04c76.chunk.js",
+    "static/css/main.3a6a09d8.chunk.css",
+    "static/js/main.74eb9a1a.chunk.js"
+  ]
+}
